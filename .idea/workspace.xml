@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88b9f15d-6173-4e11-93fb-c8252f2ff10c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/I.Intro_To_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Average_marks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvenODD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fahrenheit_to_Celcius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LargestOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/N_natural_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum_of_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple_Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multiplication_table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerOFNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumofEven_odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Total_Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prime_or_not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prime_or_not.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,37 +40,37 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.prime_or_not">
-    <configuration name="Fahrenheit_to_Celcius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fahrenheit_to_Celcius" />
+  <component name="RunManager" selected="Application.PowerOFNumber">
+    <configuration name="Multiplication_table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multiplication_table" />
       <module name="I.Intro_To_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestOfTwo" />
+    <configuration name="PowerOFNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowerOFNumber" />
       <module name="I.Intro_To_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N_natural_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="N_natural_number" />
+    <configuration name="SumofEven_odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumofEven_odd" />
       <module name="I.Intro_To_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_of_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum_of_numbers" />
+    <configuration name="Total_Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Total_Salary" />
       <module name="I.Intro_To_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prime_or_not" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prime_or_not" />
+    <configuration name="factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factors" />
       <module name="I.Intro_To_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.prime_or_not" />
-        <item itemvalue="Application.Fahrenheit_to_Celcius" />
-        <item itemvalue="Application.N_natural_number" />
-        <item itemvalue="Application.Sum_of_numbers" />
-        <item itemvalue="Application.LargestOfTwo" />
+        <item itemvalue="Application.PowerOFNumber" />
+        <item itemvalue="Application.factors" />
+        <item itemvalue="Application.SumofEven_odd" />
+        <item itemvalue="Application.Multiplication_table" />
+        <item itemvalue="Application.Total_Salary" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +95,19 @@
       <option name="presentableId" value="Default" />
       <updated>1655007671883</updated>
     </task>
+    <task id="LOCAL-00001" summary="silly ones">
+      <created>1655090148528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655090148528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="silly ones" />
+    <option name="LAST_COMMIT_MESSAGE" value="silly ones" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
