@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88b9f15d-6173-4e11-93fb-c8252f2ff10c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HollowPatterns/Formulas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HollowPatterns/firstAndLastRow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patterns/HillPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/HillPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HollowPatterns/MiddleRows_Colums.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +35,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.firstAndLastRow">
+  <component name="RunManager" selected="Application.MiddleRows_Colums">
     <configuration name="HillPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.HillPattern" />
       <module name="I.Intro_To_Java" />
@@ -65,6 +62,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MiddleRows_Colums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HollowPatterns.MiddleRows_Colums" />
+      <module name="I.Intro_To_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HollowPatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RightSidedTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.RightSidedTriangle" />
       <module name="I.Intro_To_Java" />
@@ -74,13 +84,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleOnes.PrimeNBet1toN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleOnes.PrimeNBet1toN" />
-      <module name="I.Intro_To_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MiddleRows_Colums" />
         <item itemvalue="Application.firstAndLastRow" />
         <item itemvalue="Application.HillPattern" />
         <item itemvalue="Application.RightSidedTriangle" />
         <item itemvalue="Application.IncreansTrianglePattern" />
-        <item itemvalue="Application.SimpleOnes.PrimeNBet1toN" />
       </list>
     </recent_temporary>
   </component>
@@ -145,13 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655230876908</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hollow">
+      <created>1655232671558</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655232671558</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="silly ones" />
     <MESSAGE value="patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="patterns" />
+    <MESSAGE value="Hollow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hollow" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
