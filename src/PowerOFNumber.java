@@ -5,10 +5,10 @@ public class PowerOFNumber {
         Scanner s = new Scanner(System.in);
         int x = s.nextInt();
         int n = s.nextInt();
-        int ans = 1 ;
-        for(;n>0;n--) {
-
-        ans = ans *x;
+         int ans = 1 ;
+        while (n > 0){
+            ans = ans*x;
+            n--;
         }
         System.out.println(ans);
         }
