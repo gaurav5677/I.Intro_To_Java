@@ -1,3 +1,5 @@
+package SimpleOnes;
+
 import java.util.Scanner;
 
 public class N_natural_number {

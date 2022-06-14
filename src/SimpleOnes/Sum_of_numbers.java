@@ -1,3 +1,5 @@
+package SimpleOnes;
+
 import java.util.Scanner;
 
 public class Sum_of_numbers {
