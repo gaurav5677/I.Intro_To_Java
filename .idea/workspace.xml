@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88b9f15d-6173-4e11-93fb-c8252f2ff10c" name="Changes" comment="patterns">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/DecreaseTrianglePatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/HillPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/IncreansTrianglePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/RightSidedTriangle.java" afterDir="false" />
+    <list default="true" id="88b9f15d-6173-4e11-93fb-c8252f2ff10c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HollowPatterns/Formulas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HollowPatterns/firstAndLastRow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Average_marks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/Average_marks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EvenODD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/EvenODD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fahrenheit_to_Celcius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/Fahrenheit_to_Celcius.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LargestOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/LargestOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multiplication_table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/Multiplication_table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N_natural_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/N_natural_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PowerOFNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/PowerOFNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeNBet1toN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/PrimeNBet1toN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sum_of_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/Sum_of_numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SumofEven_odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/SumofEven_odd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Total_Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/Total_Salary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/factors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prime_or_not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/prime_or_not.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple_Interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleOnes/simple_Interest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patterns/HillPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/HillPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +38,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HillPattern">
+  <component name="RunManager" selected="Application.firstAndLastRow">
     <configuration name="HillPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.HillPattern" />
       <module name="I.Intro_To_Java" />
@@ -95,13 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleOnes.PowerOFNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleOnes.PowerOFNumber" />
-      <module name="I.Intro_To_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SimpleOnes.PrimeNBet1toN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SimpleOnes.PrimeNBet1toN" />
       <module name="I.Intro_To_Java" />
@@ -109,13 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="firstAndLastRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HollowPatterns.firstAndLastRow" />
+      <module name="I.Intro_To_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HollowPatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.firstAndLastRow" />
         <item itemvalue="Application.HillPattern" />
         <item itemvalue="Application.RightSidedTriangle" />
         <item itemvalue="Application.IncreansTrianglePattern" />
         <item itemvalue="Application.SimpleOnes.PrimeNBet1toN" />
-        <item itemvalue="Application.SimpleOnes.PowerOFNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -149,12 +138,20 @@
       <option name="project" value="LOCAL" />
       <updated>1655178910850</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="patterns">
+      <created>1655230876908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655230876908</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="silly ones" />
-    <option name="LAST_COMMIT_MESSAGE" value="silly ones" />
+    <MESSAGE value="patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="patterns" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
