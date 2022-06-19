@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88b9f15d-6173-4e11-93fb-c8252f2ff10c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/operatos_forloop/BinaryTOdecimal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/operatos_forloop/DecimalTOBinary.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/operatos_forloop/ReverseANumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/operatos_forloop/Terms_Of_Ap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655287020229</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="BinaryTOdecimal">
+      <created>1655617945955</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655617945955</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,7 +195,8 @@
     <MESSAGE value="Hollow" />
     <MESSAGE value="&#10;middleRowsAndCOl" />
     <MESSAGE value="operational&amp;forloops" />
-    <option name="LAST_COMMIT_MESSAGE" value="operational&amp;forloops" />
+    <MESSAGE value="BinaryTOdecimal" />
+    <option name="LAST_COMMIT_MESSAGE" value="BinaryTOdecimal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
